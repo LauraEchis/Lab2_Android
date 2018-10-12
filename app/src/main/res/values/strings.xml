@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Basketball</string>
+    <string name="action_settings">Настройки</string>
+    <string name="team1count_string">0</string>
+    <string name="team2count_string">0</string>
+    <string name="three_point_team1">0</string>
+    <string name="two_point_team1">0</string>
+    <string name="foul_shot_team1">0</string>
+    <string name="three_point_team2">0</string>
+    <string name="two_point_team2">0</string>
+    <string name="foul_shot_team2">0</string>
+    <string name="btn_1p_team1_string">Штрафной</string>
+    <string name="btn_2p_team1_string">Двухочковый</string>
+    <string name="btn_3p_team1_string">Трёхочковый</string>
+    <string name="btn_clear_string">Очистить</string>
+    <string name="btn_1p_team2_string">Штрафной</string>
+    <string name="btn_2p_team2_string">Двухочковый</string>
+    <string name="btn_3p_team2_string">Трёхочковый</string>
+    <string name="team1_name">Команда 1</string>
+    <string name="team2_name">Команда 2</string>
+</resources>
